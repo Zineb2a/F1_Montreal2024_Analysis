@@ -2,7 +2,7 @@ import pandas as pd
 
 print("Starting the data processing script...")
 
-# Load all datasets
+
 print("Loading datasets...")
 drivers_df = pd.read_csv("driver_data.csv")
 intervals_df = pd.read_csv("interval_data.csv")
@@ -13,7 +13,7 @@ stints_df = pd.read_csv("stints_data.csv")
 weather_df = pd.read_csv("weather_data.csv")
 print("Datasets loaded successfully.")
 
-# Names of the datasets
+
 dataset_names = ["Drivers", "Intervals", "Laps", "Pit", "Race Control", "Stints", "Weather"]
 
 # Remove duplicates
@@ -86,5 +86,5 @@ print("Saving merged DataFrame to CSV...")
 merged_df.to_csv("merged_data.csv", index=False)
 print("Merged DataFrame saved to merged_data.csv.")
 
-# Completion message
+
 print("Script completed successfully.")
