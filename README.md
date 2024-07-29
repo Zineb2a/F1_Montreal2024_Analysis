@@ -2,6 +2,9 @@
 
 This project aims to analyze the performance and various aspects of the F1 Montreal Grand Prix 2024 using data analysis techniques. The analysis includes driver performance, pit stop strategies, tire strategies, weather impact, and incidents during the race. The data is fetched from the OpenF1 API and processed using Python.
 
+![F1 Montreal Grand Prix](https://www.formula1.com/content/dam/fom-website/manual/Misc/2018Manual/Canada2018/TracksidePitWall/Canada/2018_Trackside_Canada.jpg)
+
+
 ## Technologies Used
 
 - **Python**: The primary programming language used for data analysis.
