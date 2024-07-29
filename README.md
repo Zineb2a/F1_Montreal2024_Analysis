@@ -17,40 +17,34 @@ This project aims to analyze the performance and various aspects of the F1 Montr
 
 ### 1. Driver Performance Analysis
 
-- **Questions Addressed**:
   - What is the distribution of driver nationalities in this dataset?
   - How did drivers' lap times evolve over the course of the race?
   - What is the correlation between lap times and final race positions?
   
 ### 2. Qualifying vs. Race Performance Analysis
 
-- **Questions Addressed**:
   - How did qualifying positions correlate with final race positions?
   - Were there significant position gains or losses from the start to the end of the race?
 
 
 ### 3. Pit Stop Strategy Analysis
 
-- **Questions Addressed**:
   - How many pit stops did each driver make, and how did the timing of these stops affect their performance?
   - What was the average pit stop duration, and how did it compare across different teams?
 
 
 ### 4. Tire Strategy Analysis
 
-- **Questions Addressed**:
   - What tire strategies were employed, and how did they impact performance?
   - How did tire wear affect lap times towards the end of the race?
 
 ### 5. Weather Impact Analysis
 
-- **Questions Addressed**:
   - How did weather conditions affect lap times and overall performance?
   - Were there any significant incidents due to weather conditions?
 
 ### 6. Incident Analysis
 
-- **Questions Addressed**:
   - Analyze the distribution of incidents across different laps.
   - Breakdown of different types of incidents.
   - Correlate incidents with specific race events.
